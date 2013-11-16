@@ -1,0 +1,3 @@
+content		faroosearch		content/
+content		faroosearch		content/	contentaccessible=yes
+overlay		chrome://browser/content/browser.xul	chrome://faroosearch/content/browserOverlay.xul
